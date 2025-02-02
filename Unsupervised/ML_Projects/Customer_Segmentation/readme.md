@@ -25,7 +25,12 @@ The dataset contains customer-related attributes such as:
 - **Matplotlib & Seaborn** (for data visualization)
 - **Scikit-learn** (for machine learning modeling)
 
-## Project Workflow
+# Project WorkFlow :
+
+ ![Image](https://github.com/user-attachments/assets/b77b6454-f629-41cd-98ee-0ed069596edc)
+
+##  Workflow:
+
 1. **Data Preprocessing**
    - Handling missing values
    - Data cleaning and normalization
@@ -40,7 +45,6 @@ The dataset contains customer-related attributes such as:
    - Interpretation of clusters
    - Business strategies based on segmentation
   
-# WorkFlow :
 
 
 ## Results
@@ -48,6 +52,16 @@ The dataset contains customer-related attributes such as:
 - Customers were segmented into distinct groups based on their purchasing behavior.
 - Insights were derived to help businesses enhance customer engagement and sales strategies.
 
+# Findings:
+- In Mall they were **Low Annual** income customers spending also **less**.
+- They were **Low Annual** income customers spending also **High** in mall.
+- They were **Mid-Level** Annual income customers spending **MidRange** in mall.
+- They were **High** Annual income customers spending also **less**.
+- They were **High** Annual income customers spending also **less**.
+- 
+- So, They were possibilites whose having low Annual income and High Annual Income whose spending less,Bussiness can give the **Discounts** and **Memberships 
+  cards**
+  
 
 ## Future Enhancements
 - Implementing **hierarchical clustering** for better segmentation.
