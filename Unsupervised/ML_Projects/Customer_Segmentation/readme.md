@@ -59,7 +59,7 @@ The dataset contains customer-related attributes such as:
 - They were **High** Annual income customers spending also **less**.
 - They were **High** Annual income customers spending also **less**.
 - So, They were possibilites whose having low Annual income and High Annual Income whose spending less,Bussiness can give the **Discounts** and **Memberships 
-  cards**
+  cards**etc..!
   
 
 ## Future Enhancements
